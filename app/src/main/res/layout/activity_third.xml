@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:gravity="center_horizontal"
     android:padding="30dp"
-    android:background="#B0C8AA"
+    android:background="#AAC8C7"
     tools:context=".SecondActivity">
 
     <Button
@@ -15,20 +15,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="이전으로"/>
-    <TextView
-        android:id="@+id/text_title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:textColor="#B84B41"
-        android:textStyle="bold"
-        android:textSize="20sp"
-        android:text="제목나올 부분"/>
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/yza"
+        android:src="@drawable/yzb"
         android:layout_marginTop="50dp"
         android:adjustViewBounds="true"/>
 
